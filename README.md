@@ -22,10 +22,10 @@ Here's a walkthrough of some implemented features:
 
 
 
-<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/newsExample.png' title='Example' width='' />
+<img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/added.png' title='Added' width='' />
 
 
-<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/newsCreate.png' title='Create' width='' />
+<img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/NA.png' title='NA' width='' />
 
 ## License
 
