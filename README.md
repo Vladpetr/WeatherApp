@@ -18,7 +18,7 @@ The following operations were performed:
 Here's a walkthrough of some implemented features:
 
 
-<img src='https://github.com/Vladpetr/NewsPortal/blob/master/HyperNews%20Portal/task/Mainpage.png' title='Main Page' width='' />
+<img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/mainPage.png' title='Main Page' width='' />
 
 
 
