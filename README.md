@@ -1,5 +1,5 @@
 # WeatherApp
-A web application that allows to keep an eye on the weather
+A web application that allows to keep an eye on the weather.
 
 **WeatherApp** uses Flask-SQLAlchemy to connect a database to the web application and work with a weather service API to get the current weather from all over the world.
 
@@ -17,14 +17,14 @@ The following operations were performed:
 
 Here's a walkthrough of some implemented features:
 
-
+Initial Layout
 <img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/mainPage.png' title='Main Page' width='' />
 
 
-
+Handling the addition of the city that is already shown
 <img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/added.png' title='Added' width='' />
 
-
+Handing the addition of a non-existing city
 <img src='https://github.com/Vladpetr/WeatherApp/blob/master/Weather%20App/task/NA.png' title='NA' width='' />
 
 ## License
